@@ -1,0 +1,18 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyter=1.1.1
+  - notebook=7.4.1
+  - biopython=1.85
+  - pandas=2.2.3
+  - openpyxl # for pandas to read Excel files
+  - numpy=1.26.4
+  - matplotlib=3.10.1
+  - plotly=5.24.1
+  - scipy=1.15.2
+  - python-kaleido=0.2.1
+  - seqkit=2.10.1
+  - flye=2.9.5
+  - ppanggolin=2.2.4
